@@ -1,0 +1,11 @@
+#include<stdio.h>
+int number()
+{
+    return 77;
+}
+int main()
+{
+    int n=number();
+    printf("the number from sub function is %d \n",n);
+    return 0;
+}
