@@ -1,0 +1,1 @@
+# program25-no-arg-and-return
